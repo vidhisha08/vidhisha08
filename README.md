@@ -1,4 +1,8 @@
-## Hi there 👋
+## she/her
+## hii! i am vidhisha.
+## i am currently a first year student at University of Limerick, Ireland, studying Computer Science with a specialization in Cybersecurity.
+## i have experience coding in Python, Java and HTML.
+## i love music and crafting :p 
 
 <!--
 **vidhisha08/vidhisha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
